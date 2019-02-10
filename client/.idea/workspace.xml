@@ -1,0 +1,1316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d15ca30b-815c-4447-b045-142deb4d80d3" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1724123142">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="go" value="219" />
+          <entry key="md" value="11" />
+          <entry key="s" value="12" />
+          <entry key="yaml" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Go" value="219" />
+          <entry key="Markdown" value="11" />
+          <entry key="YAML" value="13" />
+          <entry key="x86 Plan9 Assembly" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="go" value="88" />
+          <entry key="md" value="1606" />
+          <entry key="txt" value="47" />
+          <entry key="yaml" value="143" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Bash" value="73" />
+          <entry key="Go" value="88" />
+          <entry key="Markdown" value="1533" />
+          <entry key="PLAIN_TEXT" value="47" />
+          <entry key="YAML" value="143" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="2109125090">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1082249964">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="67b83b3f6a7e588eecd28dbfa96d456dce80b7e26484f0a048ee1e46a3e441f9_sk" value="1" />
+          <entry key="go" value="72" />
+          <entry key="md" value="2" />
+          <entry key="pem" value="1" />
+          <entry key="s" value="1" />
+          <entry key="sh" value="4" />
+          <entry key="yaml" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Bash" value="4" />
+          <entry key="Go" value="72" />
+          <entry key="Markdown" value="2" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="YAML" value="6" />
+          <entry key="x86 Plan9 Assembly" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="go" value="85" />
+          <entry key="md" value="83" />
+          <entry key="sh" value="78" />
+          <entry key="yaml" value="179" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Bash" value="78" />
+          <entry key="Go" value="85" />
+          <entry key="Markdown" value="83" />
+          <entry key="YAML" value="179" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1632340444">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="go" value="3617" />
+          <entry key="md" value="66" />
+          <entry key="sh" value="43" />
+          <entry key="txt" value="24" />
+          <entry key="yaml" value="703" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Bash" value="43" />
+          <entry key="Go" value="3617" />
+          <entry key="Markdown" value="66" />
+          <entry key="PLAIN_TEXT" value="24" />
+          <entry key="YAML" value="703" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="go" value="127" />
+          <entry key="md" value="6" />
+          <entry key="pem" value="1" />
+          <entry key="s" value="2" />
+          <entry key="sh" value="2" />
+          <entry key="txt" value="2" />
+          <entry key="yaml" value="24" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Bash" value="2" />
+          <entry key="Go" value="127" />
+          <entry key="Markdown" value="6" />
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="YAML" value="24" />
+          <entry key="x86 Plan9 Assembly" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.go.postfix.template.usages.trigger">
+        <counts>
+          <entry key=".len" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1368598841">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="go" value="20" />
+          <entry key="md" value="4" />
+          <entry key="txt" value="1" />
+          <entry key="yaml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Go" value="20" />
+          <entry key="Markdown" value="4" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="YAML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="go" value="1283" />
+          <entry key="md" value="244" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Go" value="1283" />
+          <entry key="Markdown" value="244" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="vertical" split-proportion="0.29131985">
+      <split-first>
+        <splitter split-orientation="horizontal" split-proportion="0.42525482">
+          <split-first>
+            <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+              <file pinned="false" current-in-tab="false">
+                <entry file="file://$USER_HOME$/go/src/github.com/hyperledger/fabric-sdk-go/pkg/fab/endpointconfig.go">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="165">
+                      <caret line="1373" selection-start-line="1373" selection-end-line="1373" />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file pinned="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/main/server.go">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="305">
+                      <caret line="37" column="59" selection-start-line="37" selection-start-column="59" selection-end-line="37" selection-end-column="59" />
+                      <folding>
+                        <element signature="e#14#135#0" expanded="true" />
+                      </folding>
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file pinned="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/model/model.go">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="102">
+                      <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file pinned="false" current-in-tab="false">
+                <entry file="file://$USER_HOME$/go/src/github.com/hyperledger/fabric-sdk-go/pkg/msp/identityconfig.go">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="62">
+                      <caret line="290" selection-start-line="290" selection-end-line="290" />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file pinned="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/handle/rest.go">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="85">
+                      <caret line="5" selection-start-line="5" selection-end-line="5" />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file pinned="false" current-in-tab="true">
+                <entry file="file://$PROJECT_DIR$/handle/insurance_entry.go">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="75">
+                      <caret line="109" column="39" lean-forward="true" selection-start-line="109" selection-start-column="39" selection-end-line="109" selection-end-column="39" />
+                      <folding>
+                        <element signature="e#16#40#0" expanded="true" />
+                      </folding>
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file pinned="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/client/bc_client_insurance_entry.go">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="-454">
+                      <caret line="40" column="74" lean-forward="true" selection-start-line="40" selection-start-column="74" selection-end-line="40" selection-end-column="74" />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file pinned="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/main/createUser_test.go">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="170">
+                      <caret line="15" column="43" lean-forward="true" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+            </leaf>
+          </split-first>
+          <split-second>
+            <leaf>
+              <file pinned="false" current-in-tab="true">
+                <entry file="file://$PROJECT_DIR$/handle/insurance_product.go">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="99">
+                      <caret line="109" column="23" selection-start-line="109" selection-start-column="23" selection-end-line="109" selection-end-column="23" />
+                      <folding>
+                        <element signature="e#16#188#0" expanded="true" />
+                      </folding>
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+            </leaf>
+          </split-second>
+        </splitter>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/README-dev.md">
+              <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+                <state split_layout="FIRST">
+                  <first_editor relative-caret-position="386">
+                    <caret line="237" selection-start-line="236" selection-end-line="237" />
+                  </first_editor>
+                  <second_editor />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>failed to initialize configuration</find>
+      <find>userName</find>
+      <find>failed to create channel context</find>
+      <find>Failed to create new channel client for user</find>
+      <find>peer</find>
+      <find>abc.server.config</find>
+      <find>server.c</find>
+      <find>server</find>
+      <find>userTid</find>
+      <find>peer0</find>
+      <find>9.5</find>
+      <find>credentialStore</find>
+      <find>cryptoPath</find>
+      <find>peer_server</find>
+      <find>{</find>
+      <find>getOrgChannelClient</find>
+      <find>TestRe</find>
+      <find>return</find>
+      <find>returned</find>
+      <find>userTypeReq</find>
+      <find>UserType</find>
+      <find>GetOrgChannelClientContext</find>
+      <find>channelID</find>
+      <find>GetOrgChannelClient</find>
+      <find>testfi</find>
+      <find>curl</find>
+      <find>fintech</find>
+      <find>192.168.99.100</find>
+      <find>msg</find>
+      <find>product</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>blockchain_at_fintech/fi</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\devel\go\src\blockchain-at-fintech-fi</dir>
+      <dir>C:\Dropbox\devel\go\src\blockchain_at_fintech\fi</dir>
+      <dir>C:\Dropbox\devel\go\src\blockchain_at_insurtech\client</dir>
+    </dirStrings>
+  </component>
+  <component name="GOROOT" path="C:/Go1.10.4" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoDepProject">
+    <integration-enabled>true</integration-enabled>
+    <exec-path>C:\Users\ilias\go\bin\dep.exe</exec-path>
+  </component>
+  <component name="GoLibraries">
+    <option name="urls">
+      <list>
+        <option value="file://$PROJECT_DIR$/../../.." />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/config/config-abc.yaml" />
+        <option value="$PROJECT_DIR$/config/config-hero.yaml" />
+        <option value="$PROJECT_DIR$/get_user.sh" />
+        <option value="$PROJECT_DIR$/handle/client.go" />
+        <option value="$PROJECT_DIR$/handle/bc_client_entries.go" />
+        <option value="$PROJECT_DIR$/handle/bc_client.go" />
+        <option value="$PROJECT_DIR$/handle/bc_client_users.go" />
+        <option value="$PROJECT_DIR$/handle/rest.go" />
+        <option value="$PROJECT_DIR$/handle/entry.go" />
+        <option value="$PROJECT_DIR$/main/retrieveUser_test.go" />
+        <option value="$PROJECT_DIR$/main/retrieveUsers_test.go" />
+        <option value="$PROJECT_DIR$/main/registerListener_test.go" />
+        <option value="$PROJECT_DIR$/listener/registerListener_test.go" />
+        <option value="$PROJECT_DIR$/listener/main.go" />
+        <option value="$PROJECT_DIR$/main/listener.go" />
+        <option value="$PROJECT_DIR$/listener/main/listener.go" />
+        <option value="$PROJECT_DIR$/main/deleteUser_test.go" />
+        <option value="$PROJECT_DIR$/ui/a.txt" />
+        <option value="$PROJECT_DIR$/ui/f/b.txt" />
+        <option value="$PROJECT_DIR$/handle/user.go" />
+        <option value="$PROJECT_DIR$/main/util.go" />
+        <option value="$PROJECT_DIR$/main/createUser_test.go" />
+        <option value="$PROJECT_DIR$/main/updateUser_test.go" />
+        <option value="$PROJECT_DIR$/main/retrieveBlock_test.go" />
+        <option value="$PROJECT_DIR$/main/retrieveInfo_test.go" />
+        <option value="$PROJECT_DIR$/config/config.yaml" />
+        <option value="$PROJECT_DIR$/client/bc_client_admin.go" />
+        <option value="$PROJECT_DIR$/client/bc_client_user.go" />
+        <option value="$PROJECT_DIR$/client/bc_client_product.go" />
+        <option value="$PROJECT_DIR$/client/bc_client_entry.go" />
+        <option value="$PROJECT_DIR$/client/bc_client.go" />
+        <option value="$PROJECT_DIR$/client/bc_client_insurance_product.go" />
+        <option value="$PROJECT_DIR$/client/bc_client_insurance_entry.go" />
+        <option value="$PROJECT_DIR$/model/model.go" />
+        <option value="$PROJECT_DIR$/main/server.go" />
+        <option value="$PROJECT_DIR$/handle/insurance_product.go" />
+        <option value="$PROJECT_DIR$/handle/insurance_entry.go" />
+        <option value="$PROJECT_DIR$/README-dev.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="institute" type="b2602c69:ProjectViewProjectNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="institute" type="b2602c69:ProjectViewProjectNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="institute" type="b2602c69:ProjectViewProjectNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="handle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="institute" type="b2602c69:ProjectViewProjectNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="institute" type="b2602c69:ProjectViewProjectNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="institute" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="GO_FMT" value="true" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.vendoring.notification.had.been.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Dropbox\devel\go\src\blockchain_at_fintech\fi\main" />
+      <recent name="C:\Dropbox\devel\go\src\blockchain_at_fintech\fi\client" />
+      <recent name="C:\Dropbox\devel\go\src\blockchain_at_fintech\fi\ui\f" />
+      <recent name="C:\Dropbox\devel\go\src\blockchain_at_fintech\fi\model" />
+      <recent name="C:\Dropbox\devel\go\src\blockchain_at_fintech\fi\handle" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Dropbox\devel\go\src\blockchain_at_fintech\fi\listener\main" />
+      <recent name="C:\Dropbox\devel\go\src\blockchain_at_fintech\fi\main" />
+      <recent name="C:\Dropbox\devel\go\src\blockchain_at_fintech\fi\listener" />
+      <recent name="C:\Dropbox\devel\go\src\blockchain_at_fintech\fi\src\abc.server.config\crypto-store\admin2\msp\keystore" />
+      <recent name="C:\Dropbox\devel\go\src\blockchain_at_fintech\fi\client" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Build.go build server.go">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="institute" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/" />
+      <package value="blockchain-at-fintech-fi" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build listener.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="institute" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main/listener.go" />
+      <package value="blockchain-at-fintech-fi" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build server.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <module name="institute" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main/server.go" />
+      <package value="blockchain-at-fintech-fi" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestCreateUser in blockchain_at_fintech/fi/main" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="institute" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="blockchain_at_fintech/fi/main" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestCreateUser$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestInfo in blockchain_at_fintech/fi/main" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true">
+      <module name="institute" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="blockchain_at_fintech/fi/main" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestInfo$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestRetrieveBlock in blockchain_at_fintech/fi/main" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="institute" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="blockchain_at_fintech/fi/main" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestRetrieveBlock$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestRetrieveUsers in blockchain_at_fintech/fi/main" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="institute" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="blockchain_at_fintech/fi/main" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestRetrieveUsers$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestUpdateUser in blockchain_at_fintech/fi/main" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="institute" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="blockchain_at_fintech/fi/main" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestUpdateUser$" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="institute" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <package value="blockchain-at-fintech-fi" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build server.go" />
+      <item itemvalue="Go Build.go build listener.go" />
+      <item itemvalue="Go Test.TestCreateUser in blockchain_at_fintech/fi/main" />
+      <item itemvalue="Go Test.TestRetrieveUsers in blockchain_at_fintech/fi/main" />
+      <item itemvalue="Go Test.TestUpdateUser in blockchain_at_fintech/fi/main" />
+      <item itemvalue="Go Test.TestInfo in blockchain_at_fintech/fi/main" />
+      <item itemvalue="Go Test.TestRetrieveBlock in blockchain_at_fintech/fi/main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build server.go" />
+        <item itemvalue="Go Test.TestRetrieveBlock in blockchain_at_fintech/fi/main" />
+        <item itemvalue="Go Test.TestInfo in blockchain_at_fintech/fi/main" />
+        <item itemvalue="Go Test.TestCreateUser in blockchain_at_fintech/fi/main" />
+        <item itemvalue="Go Test.TestRetrieveUsers in blockchain_at_fintech/fi/main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestInfo_in_blockchain_at_fintech_fi_main - 2019.01.13 at 20h 21m 34s.xml">
+      <configuration name="TestInfo in blockchain_at_fintech/fi/main" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestInfo_in_blockchain_at_fintech_fi_main - 2019.01.13 at 20h 25m 06s.xml">
+      <configuration name="TestInfo in blockchain_at_fintech/fi/main" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestInfo_in_blockchain_at_fintech_fi_main - 2019.01.13 at 20h 27m 19s.xml">
+      <configuration name="TestInfo in blockchain_at_fintech/fi/main" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestInfo_in_blockchain_at_fintech_fi_main - 2019.01.13 at 20h 36m 43s.xml">
+      <configuration name="TestInfo in blockchain_at_fintech/fi/main" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestInfo_in_blockchain_at_fintech_fi_main - 2019.01.13 at 20h 49m 57s.xml">
+      <configuration name="TestInfo in blockchain_at_fintech/fi/main" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestInfo_in_blockchain_at_fintech_fi_main - 2019.01.13 at 20h 50m 13s.xml">
+      <configuration name="TestInfo in blockchain_at_fintech/fi/main" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestRetrieveBlock_in_blockchain_at_fintech_fi_main - 2019.01.13 at 22h 47m 27s.xml">
+      <configuration name="TestRetrieveBlock in blockchain_at_fintech/fi/main" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestRetrieveBlock_in_blockchain_at_fintech_fi_main - 2019.01.13 at 22h 53m 54s.xml">
+      <configuration name="TestRetrieveBlock in blockchain_at_fintech/fi/main" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestRetrieveBlock_in_blockchain_at_fintech_fi_main - 2019.02.09 at 20h 54m 05s.xml">
+      <configuration name="TestRetrieveBlock in blockchain_at_fintech/fi/main" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestRetrieveBlock_in_blockchain_at_fintech_fi_main - 2019.02.09 at 20h 55m 28s.xml">
+      <configuration name="TestRetrieveBlock in blockchain_at_fintech/fi/main" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.12035011" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49840087" weight="0.32719395" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8395522" visible="true" weight="0.08971553" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.809628" weight="0.45185995" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49912128" weight="0.32932165" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49912128" weight="0.32932165" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.19037199" side_tool="true" weight="0.4091904" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.4973638" weight="0.32932165" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16948052" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49840087" weight="0.32822758" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8395522" visible="true" weight="0.2439825" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.809628" weight="0.45937163" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49912128" weight="0.32932165" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49912128" weight="0.32932165" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.19037199" side_tool="true" weight="0.4091904" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.4973638" weight="0.32932165" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="implementation for fintech hackathon" />
+    <option name="LAST_COMMIT_MESSAGE" value="implementation for fintech hackathon" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://C:/Go1.9.7/src/net/http/server.go</url>
+          <line>1696</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$USER_HOME$/go/src/github.com/hyperledger/fabric-sdk-go/pkg/fab/chconfig/chconfig.go</url>
+          <line>207</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$USER_HOME$/go/src/github.com/hyperledger/fabric-sdk-go/pkg/msp/identityconfig.go</url>
+          <line>290</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$USER_HOME$/go/src/github.com/hyperledger/fabric-sdk-go-old/pkg/msp/identityconfig.go</url>
+          <line>273</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$USER_HOME$/go/src/github.com/hyperledger/fabric-sdk-go-old/pkg/fab/endpointconfig.go</url>
+          <line>799</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$USER_HOME$/go/src/github.com/hyperledger/fabric-sdk-go-old/pkg/core/config/cryptoutil/cryptoutils.go</url>
+          <line>30</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$USER_HOME$/go/src/github.com/hyperledger/fabric-sdk-go-old/pkg/core/config/cryptoutil/cryptoutils.go</url>
+          <line>42</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint type="DlvLineBreakpoint">
+          <url>file://$USER_HOME$/go/src/github.com/hyperledger/fabric-sdk-go/pkg/core/config/cryptoutil/cryptoutils.go</url>
+          <line>42</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint type="DlvLineBreakpoint">
+          <url>file://$USER_HOME$/go/src/github.com/hyperledger/fabric-sdk-go/pkg/fab/chconfig/chconfig.go</url>
+          <line>211</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$USER_HOME$/go/src/github.com/hyperledger/fabric-sdk-go/pkg/fab/chconfig/chconfig.go</url>
+          <line>169</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint type="DlvLineBreakpoint">
+          <url>file://$USER_HOME$/go/src/github.com/hyperledger/fabric-sdk-go/pkg/core/config/config.go</url>
+          <line>1444</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint type="DlvLineBreakpoint">
+          <url>file://C:/Go1.10.4/src/io/ioutil/ioutil.go</url>
+          <line>52</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint type="DlvLineBreakpoint">
+          <url>file://$USER_HOME$/go/src/github.com/hyperledger/fabric-sdk-go/pkg/core/config/cryptoutil/cryptoutils.go</url>
+          <line>40</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint type="DlvLineBreakpoint">
+          <url>file://$USER_HOME$/go/src/github.com/hyperledger/fabric-sdk-go/pkg/core/config/config.go</url>
+          <line>1528</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint type="DlvLineBreakpoint">
+          <url>file://$USER_HOME$/go/src/github.com/hyperledger/fabric-sdk-go/pkg/core/config/config.go</url>
+          <line>1538</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint type="DlvLineBreakpoint">
+          <url>file://$USER_HOME$/go/src/github.com/hyperledger/fabric-sdk-go/pkg/client/channel/chclient.go</url>
+          <line>57</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint type="DlvLineBreakpoint">
+          <url>file://$USER_HOME$/go/src/github.com/hyperledger/fabric-sdk-go/pkg/fabsdk/provider/fabpvdr/fabpvdr.go</url>
+          <line>135</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint type="DlvLineBreakpoint">
+          <url>file://$USER_HOME$/go/src/github.com/hyperledger/fabric-sdk-go/pkg/fab/chconfig/cache.go</url>
+          <line>39</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$USER_HOME$/go/src/github.com/hyperledger/fabric-sdk-go-old/pkg/client/msp/example_test.go</url>
+          <line>196</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$USER_HOME$/go/src/github.com/hyperledger/fabric-sdk-go/pkg/context/context.go</url>
+          <line>207</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$USER_HOME$/go/src/github.com/hyperledger/fabric-sdk-go/pkg/msp/getsigid.go</url>
+          <line>88</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint type="DlvLineBreakpoint">
+          <url>file://$USER_HOME$/go/src/github.com/hyperledger/fabric-sdk-go/pkg/fab/keyvaluestore/filekeyvaluestore.go</url>
+          <line>114</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$USER_HOME$/go/src/github.com/hyperledger/fabric-sdk-go/pkg/msp/getsigid.go</url>
+          <line>210</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint type="DlvLineBreakpoint">
+          <url>file://$USER_HOME$/go/src/github.com/hyperledger/fabric-sdk-go/pkg/msp/filecertstore.go</url>
+          <line>21</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint type="DlvLineBreakpoint">
+          <url>file://$USER_HOME$/go/src/github.com/hyperledger/fabric-sdk-go/pkg/msp/identitymgr.go</url>
+          <line>53</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint type="DlvLineBreakpoint">
+          <url>file://$USER_HOME$/go/src/github.com/hyperledger/fabric-sdk-go/pkg/msp/identitymgr.go</url>
+          <line>70</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$USER_HOME$/go/src/github.com/hyperledger/fabric-sdk-go-old/pkg/util/concurrent/lazyref/lazyref.go</url>
+          <line>285</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$USER_HOME$/go/src/github.com/hyperledger/fabric-sdk-go/pkg/util/concurrent/lazyref/lazyref.go</url>
+          <line>300</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$USER_HOME$/go/src/github.com/hyperledger/fabric-sdk-go/pkg/core/config/config.go</url>
+          <line>875</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$USER_HOME$/go/src/github.com/hyperledger/fabric-sdk-go/pkg/core/config/config.go</url>
+          <line>996</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint type="DlvLineBreakpoint">
+          <url>file://$USER_HOME$/go/src/github.com/hyperledger/fabric-sdk-go/pkg/core/config/config.go</url>
+          <line>794</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$USER_HOME$/go/src/github.com/hyperledger/fabric-sdk-go/pkg/fab/orderer/orderer_test.go</url>
+          <line>433</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/vendor/github.com/hyperledger/fabric-sdk-go/pkg/fab/txn/txn.go</url>
+          <line>182</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/vendor/github.com/hyperledger/fabric-sdk-go/pkg/fab/comm/connector.go</url>
+          <line>155</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$USER_HOME$/go/src/github.com/hyperledger/fabric-sdk-go/pkg/client/common/selection/dynamicselection/ccpolicyprovider.go</url>
+          <line>83</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>ctx</expression-string>
+        <language-id>go</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/config/config-abc-working.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4355" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config-local.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="306" selection-start-line="306" selection-end-line="306" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config-prod.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="272" column="46" lean-forward="true" selection-start-line="272" selection-start-column="46" selection-end-line="272" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Go1.10.4/src/net/http/request.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="97" column="5" selection-start-line="97" selection-start-column="5" selection-end-line="97" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/retrieveUser_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/retrieveUsers_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/go/src/github.com/hyperledger/fabric-sdk-go/pkg/msp/test/mockmsp/mockfabriccaserver.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Go1.10.4/src/net/http/server.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="2704" column="19" selection-start-line="2704" selection-start-column="19" selection-end-line="2704" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/go/src/github.com/hyperledger/fabric-sdk-go/pkg/client/event/event.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="105" column="104" selection-start-line="105" selection-start-column="92" selection-end-line="105" selection-end-column="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listener/registerListener_test.go" />
+    <entry file="file://$PROJECT_DIR$/listener/main/listener.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="53" column="1" lean-forward="true" selection-start-line="53" selection-start-column="1" selection-end-line="53" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui/f/b.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/deleteUser_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/util.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/updateUser_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/go/src/github.com/hyperledger/fabric-sdk-go/pkg/client/channel/api.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-295">
+          <caret line="37" column="5" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/retrieveInfo_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="14" column="15" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/retrieveBlock_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/go/src/github.com/hyperledger/fabric-sdk-go/pkg/fab/chconfig/reference.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/go/src/github.com/hyperledger/fabric-sdk-go/pkg/fabsdk/context.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/go/src/github.com/hyperledger/fabric-sdk-go/pkg/context/context.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="244" column="5" selection-start-line="244" selection-start-column="5" selection-end-line="244" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/go/src/github.com/hyperledger/fabric-sdk-go/test/integration/base_test_setup.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="71" column="49" lean-forward="true" selection-start-line="71" selection-start-column="19" selection-end-line="71" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/go/src/github.com/hyperledger/fabric-sdk-go/pkg/util/concurrent/lazyref/lazyref.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="300" selection-start-line="300" selection-end-line="300" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/go/src/github.com/hyperledger/fabric-sdk-go/pkg/fabsdk/fabsdk.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1485">
+          <caret line="321" column="22" selection-start-line="321" selection-start-column="22" selection-end-line="321" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/go/src/github.com/hyperledger/fabric-sdk-go/pkg/client/msp/client.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="64" column="9" selection-start-line="64" selection-start-column="9" selection-end-line="64" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/go/src/github.com/hyperledger/fabric-sdk-go/pkg/common/errors/retry/invoker.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/go/src/github.com/hyperledger/fabric-sdk-go/pkg/client/channel/invoke/txnhandler.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="91" selection-start-line="91" selection-end-line="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Go1.10.4/src/runtime/asm_amd64.s">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="2360" selection-start-line="2360" selection-end-line="2360" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/go/src/github.com/hyperledger/fabric-sdk-go/pkg/client/common/selection/dynamicselection/dynamicselection.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="194" selection-start-line="194" selection-end-line="194" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/go/src/github.com/hyperledger/fabric-sdk-go/pkg/client/common/selection/dynamicselection/ccpolicyprovider.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="87" lean-forward="true" selection-start-line="87" selection-end-line="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/go/src/github.com/hyperledger/fabric-sdk-go/pkg/client/channel/chclient.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1309">
+          <caret line="91" selection-start-line="91" selection-end-line="91" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/go/src/github.com/hyperledger/fabric-sdk-go/pkg/fab/chconfig/chconfig.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2567">
+          <caret line="172" column="9" selection-start-line="172" selection-start-column="9" selection-end-line="172" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/go/src/github.com/hyperledger/fabric-sdk-go/pkg/fabsdk/provider/chpvdr/chprovider.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4369">
+          <caret line="274" selection-start-line="274" selection-end-line="274" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/go/src/github.com/hyperledger/fabric-sdk-go/pkg/util/concurrent/lazycache/lazycache.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1887">
+          <caret line="121" selection-start-line="121" selection-end-line="121" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/go/src/github.com/hyperledger/fabric-sdk-go/pkg/util/concurrent/futurevalue/futurevalue.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/bc_client_admin.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1088">
+          <caret line="69" column="25" selection-start-line="69" selection-start-column="25" selection-end-line="69" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/bc_client.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+          <folding>
+            <element signature="e#16#377#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui/a.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/bc_client_insurance_product.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="e#16#160#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/go/src/github.com/hyperledger/fabric-sdk-go/pkg/fab/endpointconfig.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="1373" selection-start-line="1373" selection-end-line="1373" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/handle/rest.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config-admin2.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="271" column="37" lean-forward="true" selection-start-line="271" selection-start-column="37" selection-end-line="271" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="15" lean-forward="true" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/go/src/github.com/hyperledger/fabric-sdk-go/pkg/msp/identityconfig.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="290" selection-start-line="290" selection-end-line="290" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/createUser_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="15" column="43" lean-forward="true" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/model.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/bc_client_insurance_entry.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-454">
+          <caret line="40" column="74" lean-forward="true" selection-start-line="40" selection-start-column="74" selection-end-line="40" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/server.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="37" column="59" selection-start-line="37" selection-start-column="59" selection-end-line="37" selection-end-column="59" />
+          <folding>
+            <element signature="e#14#135#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/handle/insurance_entry.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="109" column="39" lean-forward="true" selection-start-line="109" selection-start-column="39" selection-end-line="109" selection-end-column="39" />
+          <folding>
+            <element signature="e#16#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/handle/insurance_product.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="109" column="23" selection-start-line="109" selection-start-column="23" selection-end-line="109" selection-end-column="23" />
+          <folding>
+            <element signature="e#16#188#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README-dev.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="386">
+            <caret line="237" selection-start-line="236" selection-end-line="237" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
